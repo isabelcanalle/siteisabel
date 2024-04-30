@@ -1,6 +1,8 @@
-header{
-   background-color: plum;
-   color:white; 
+*{margin: 0;
+padding: 0;
+}
+
+.cabecalho {background-color: plum;
 }
 
 .cabecalho-imagem{
